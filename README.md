@@ -19,4 +19,4 @@ Hi! 🚀
 ![hmm](https://raw.githubusercontent.com/anantyan/Binar-Android-Chapter-6/main/screenshoot/pages.png)
 ![hmm](https://raw.githubusercontent.com/anantyan/Binar-Android-Chapter-6/main/screenshoot/pages___1.png)
 ![hmm](https://raw.githubusercontent.com/anantyan/Binar-Android-Chapter-6/main/screenshoot/pages___2.png)
-![hmm](https://raw.githubusercontent.com/anantyan/Binar-Android-Chapter-6/main/screenshoot/pages___3.png)
+![hmm](https://raw.githubusercontent.com/anantyan/Binar-Android-Chapter-6/main/screenshoot/Pages___3.png)
